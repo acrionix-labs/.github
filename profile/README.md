@@ -31,4 +31,4 @@ acrionix watch --adb --tree ./device/oem/sm8650
 ### Repositories
 
 - [`acrionix-web`](https://github.com/acrionix-labs/acrionix-web) - Landing page, interactive Log-to-Patch sandbox, documentation portal (`docs.acrionix.net`), and Cloudflare Worker edge runtime.
-- `acrionix-cli` *(in active development)* - Python CLI for live ADB streaming, offline log triage, and unified `.patch` synthesis.
+- [`acrionix-cli`](https://github.com/acrionix-labs/acrionix-cli) - Zero-dependency Python CLI for live ADB streaming, SELinux/VINTF/tombstone/DSU triage, and verified unified `.patch` synthesis.
